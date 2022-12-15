@@ -1,0 +1,10 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    i18n_domain="tekir.customcontent">
+
+    <permission
+        id="tekir.customcontent.AddCustomFolder"
+        title="tekir.customcontent: Add custom folder"
+        />
+
+</configure>
